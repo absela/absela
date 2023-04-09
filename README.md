@@ -6,7 +6,7 @@
 </h2>
 
 <div>
- <img width="250" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
+ <img width="400" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
 </div>
 
  [![absela's 42 stats](https://badge.mediaplus.ma/greenbinary/absela)](https://github.com/oakoudad/badge42)
