@@ -6,3 +6,7 @@
 </h2>
 
 [![absela's 42 stats](https://badge.mediaplus.ma/greenbinary/absela)](https://github.com/oakoudad/badge42)
+
+<div>                                                                                                                         
+ <img width="500" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
+</div>
