@@ -8,7 +8,9 @@
 <div>
  <img width="370" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
 </div>
-
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absela&theme=github_dark&langs_count=4&hide_border=true" style="width:100%"/>
+</div>
  [![absela's 42 stats](https://badge.mediaplus.ma/greenbinary/absela)](https://github.com/oakoudad/badge42)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absela&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
