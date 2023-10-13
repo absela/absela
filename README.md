@@ -9,7 +9,6 @@
  <img width="370" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
 </div>
 <div>
-[![absela's 42 stats](https://badge.mediaplus.ma/greenbinary/absela)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absela&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+[![absela's 42 stats](https://badge.mediaplus.ma/binary/absela)] 
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absela&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
