@@ -11,4 +11,4 @@
 
 
 [![oakoudad's 42 stats](https://badge.mediaplus.ma/darkblue/absela)](https://github.com/oakoudad/badge42)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absela&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absela&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
