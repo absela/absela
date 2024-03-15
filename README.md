@@ -15,3 +15,7 @@
 
 [![oakoudad's 42 stats](https://badge.mediaplus.ma/darkblue/absela)](https://github.com/oakoudad/badge42)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absela&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/absela/count.svg" />
+</p>
